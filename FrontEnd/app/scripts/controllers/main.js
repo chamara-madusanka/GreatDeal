@@ -7,7 +7,7 @@
  * # MainCtrl
  * Controller of the frontEndApp
  */
-angular.module('frontEndApp')
+angular.module('greatDeal')
   .controller('MainCtrl', function () {
     this.awesomeThings = [
       'HTML5 Boilerplate',

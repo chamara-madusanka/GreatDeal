@@ -9,7 +9,7 @@
  * Main module of the application.
  */
 angular
-  .module('frontEndApp', [
+  .module('greatDeal', [
     'ngAnimate',
     'ngCookies',
     'ngResource',
